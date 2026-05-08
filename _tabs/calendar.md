@@ -6,6 +6,16 @@ toc: false
 order: 7
 ---
 
+<iframe
+  src="https://calendar.google.com/calendar/embed?src=c_im5749fiebti9nh10jvc3n8uhg%40group.calendar.google.com&mode=MONTH&showTitle=0&showPrint=0"
+  style="border: 0"
+  width="100%"
+  height="700"
+  frameborder="0"
+  scrolling="no">
+</iframe>
+
+
 ## Upcoming Events
 
 <div id="loading-message" style="color: gray;">⏳ Loading events...</div>
@@ -47,7 +57,7 @@ order: 7
 
 <script>
   const CALENDAR_ID = 'c_im5749fiebti9nh10jvc3n8uhg@group.calendar.google.com';
-  const API_KEY     = 'YOUR_NEW_API_KEY_HERE'; // <-- Replace after regenerating
+  const API_KEY     = 'AIzaSyA3yisd42pJElQHE7zLrH851Wn7Z-nFKdg'; // <-- Replace after regenerating
   const MAX_RESULTS = 10;
 
   async function fetchEvents() {
