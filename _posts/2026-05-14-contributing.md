@@ -7,7 +7,17 @@ categories: ["Commentary"]
 
 # Fix-The-Grid Website Post Contribution Guide
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/n-qYgpdz2RQ" title="Contributing to the Fix The Grid Website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/n-qYgpdz2RQ"
+    title="Contributing to the Fix The Grid Website"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Overview
 
