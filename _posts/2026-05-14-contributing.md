@@ -7,8 +7,7 @@ categories: ["Commentary"]
 
 # Fix-The-Grid Website Post Contribution Guide
 
-<iframe width="560" height="315" src="https://youtu.be/n-qYgpdz2RQ"
-frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/n-qYgpdz2RQ" title="Contributing to the Fix The Grid Website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Overview
 
