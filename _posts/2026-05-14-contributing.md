@@ -23,41 +23,44 @@ categories: ["Commentary"]
 
 There are two methods by which you can contribute to
 [Fix-The-Grid](https://fix-the-grid.org/)'s blog posts:
+
 1. Email Turibius (current maintainer, [turibius@bu.edu](mailto:turibius@bu.edu))
-  with your unformatted post, any images/links to include, and your name.
+   with your unformatted post, any images/links to include, and your name.
 2. Make posts yourself on [FTG's Github
-  page](https://github.com/fix-the-grid/fix-the-grid.github.io).
+   page](https://github.com/fix-the-grid/fix-the-grid.github.io).
 
 This guide covers the latter:
+
 1. Getting access to contribute posts to the website.
 2. Making a post.
 3. Submitting the post.
 
 ---
 
-## Getting Access 
+## Getting Access
 
 This step should take less than 4 minutes on your part:
+
 1. Go to [https://www.github.com](https://www.github.com).
 2. Click 'Sign up' on top right.
 3. Enter your email, password, username. Remember to save your password
-	 somewhere safe!
+   somewhere safe!
 4. Verify your email.
 5. Email your username to current maintainer at [turibius@bu.edu](mailto:turibius@bu.edu).
 6. At some point within 2 business days, check your mail box for an invitation
-	 link. Accept on 'view invitation', and then accept it.
+   link. Accept on 'view invitation', and then accept it.
 
 ---
 
 ## Making a Post
 
 1. Open the `_posts` folder on GitHub. [Direct link to
-	 posts](https://github.com/fix-the-grid/fix-the-grid.github.io/tree/master/_posts)
+   posts](https://github.com/fix-the-grid/fix-the-grid.github.io/tree/master/_posts)
 2. Click on 'Add file' near top right, and then 'Create new file'.
 3. Follow the "Post Guide" below.
-3. Submit a **pull request** (a review request).
-4. The site owner reviews it, approves any changes, and publishes it.
-5. You are notified when your post goes live.
+4. Submit a **pull request** (a review request).
+5. The site owner reviews it, approves any changes, and publishes it.
+6. You are notified when your post goes live.
 
 ---
 
@@ -72,15 +75,16 @@ YYYY-MM-DD-your-post-title.md
 ```
 
 **Rules:**
+
 - Begin with the post date: `YYYY-MM-DD` (e.g., `2026-05-14`)
 - Use only **lowercase** letters, numbers, and **hyphens** (`-`)
 - No spaces, capital letters, or special characters (`!`, `?`, `&`, `#`, etc.)
 - End with `.md`
 
-| ✅ Good | ❌ Bad |
-|---|---|
+| ✅ Good                         | ❌ Bad                                            |
+| ------------------------------- | ------------------------------------------------- |
 | `2023-03-22-solidarity-work.md` | `Soliditary Work.md` — spaces, no date, uppercase |
-| `2023-08-23-global-power-up.md` | `2023-08-23 global-power-up!.md` — space and `!` |
+| `2023-08-23-global-power-up.md` | `2023-08-23 global-power-up!.md` — space and `!`  |
 
 #### 2 — Write Your Post
 
@@ -115,6 +119,7 @@ frameborder="0" allowfullscreen></iframe>
 ```
 
 **Available categories — choose exactly one, replacing `"Action"` with your choice:**
+
 - `"Technical Analysis"`
 - `"Action"`
 - `"News"`
@@ -129,15 +134,14 @@ frameborder="0" allowfullscreen></iframe>
 The block at the very top of every post (between the two `---` lines) is called **front matter**.
 All four fields are required.
 
-| Field | What to enter | Example |
-|---|---|---|
-| `title` | Your post title in double quotes | `"Summer Blockbusters Ranked"` |
-| `date` | Post date and time | `2026-05-14 10:00:00 +0000` |
-| `author` | Your last name, all lowercase, no spaces | `smith` |
-| `categories` | Exactly ONE category from the list, in brackets and quotes | `["Action"]` |
+| Field        | What to enter                                              | Example                        |
+| ------------ | ---------------------------------------------------------- | ------------------------------ |
+| `title`      | Your post title in double quotes                           | `"Summer Blockbusters Ranked"` |
+| `date`       | Post date and time                                         | `2026-05-14 10:00:00 +0000`    |
+| `author`     | Your last name, all lowercase, no spaces                   | `smith`                        |
+| `categories` | Exactly ONE category from the list, in brackets and quotes | `["Action"]`                   |
 
 ---
-
 
 #### 3 — Submit as a Pull Request ⚠️
 
@@ -145,7 +149,7 @@ Scroll to the bottom of the editor page to the **"Commit new file"** section.
 
 1. Optionally type a short description in the first box, e.g., `Add post: Summer Movie Review`.
 2. Select **"Create a new branch for this commit and start a pull request."**
-3. Do **not** select *"Commit directly to the main branch"* — this bypasses the review step.
+3. Do **not** select _"Commit directly to the main branch"_ — this bypasses the review step.
 4. Click **Propose new file**.
 5. On the next page, click **Create pull request**.
 
@@ -157,11 +161,11 @@ Done! The site owner will review and publish your post when it is ready.
 
 #### Bold and Italic Text
 
-| Style | Type this | Result |
-|---|---|---|
-| Bold | `**your text**` | **your text** |
-| Italic | `_your text_` | *your text* |
-| Bold + Italic | `**_your text_**` | ***your text*** |
+| Style         | Type this         | Result          |
+| ------------- | ----------------- | --------------- |
+| Bold          | `**your text**`   | **your text**   |
+| Italic        | `_your text_`     | _your text_     |
+| Bold + Italic | `**_your text_**` | **_your text_** |
 
 #### Headings
 
@@ -209,8 +213,13 @@ Example: `[Visit Google](https://google.com)` → creates a clickable link readi
    Replace `VIDEO_ID_HERE` with the actual ID.
 
 ```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE"
-frameborder="0" allowfullscreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/VIDEO_ID_HERE"
+  frameborder="0"
+  allowfullscreen
+></iframe>
 ```
 
 #### Bullet Lists
@@ -233,15 +242,14 @@ frameborder="0" allowfullscreen></iframe>
 
 ## Common Mistakes to Avoid
 
-| Mistake | How to fix it |
-|---|---|
-| Missing `---` in the front matter | Both `---` lines must be on their own line with nothing else on it |
-| More than one category selected | Use exactly one, keeping both the `[ ]` brackets and `" "` quotes |
-| Using Tab key in the front matter | Use the spacebar — tabs break the formatting |
-| Committing directly to `main` | Always choose *"Create a new branch → Pull request"* |
-| File not in `_posts/` | Confirm you are inside `_posts/` before clicking "Create new file" |
-| Spaces or capitals in the filename | Lowercase, numbers, and hyphens only — no spaces |
-| Forgetting `.md` at the end | Every post file must end with `.md` |
+| Mistake                            | How to fix it                                                      |
+| ---------------------------------- | ------------------------------------------------------------------ |
+| Missing `---` in the front matter  | Both `---` lines must be on their own line with nothing else on it |
+| More than one category selected    | Use exactly one, keeping both the `[ ]` brackets and `" "` quotes  |
+| Using Tab key in the front matter  | Use the spacebar — tabs break the formatting                       |
+| Committing directly to `main`      | Always choose _"Create a new branch → Pull request"_               |
+| File not in `_posts/`              | Confirm you are inside `_posts/` before clicking "Create new file" |
+| Spaces or capitals in the filename | Lowercase, numbers, and hyphens only — no spaces                   |
+| Forgetting `.md` at the end        | Every post file must end with `.md`                                |
 
 ---
-

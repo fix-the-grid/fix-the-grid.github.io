@@ -38,26 +38,26 @@ The study examined four pathways and came to the following conclusions about eac
 We have questions and concerns about the scope and content of this report and the process of its roll out.
 
 - By design, this study evaluated alternative pathways for the future grid purely from an economic perspective rather than through a moral or environmental justice lens. This is a significant limitation.
-    - By not adequately accounting for the costs of near term fossil fuel use on the climate, not to mention the public health/environmental justice costs, this study underplays the benefit of earlier more aggressive decarbonization and the costs of continued delay.
-    - Some overbuilding of renewable generation resources, though possibly not ideal in economic efficiency,  should be acknowledged as providing social and environmental benefits over the alternative of fossil-based peaker resources.
+  - By not adequately accounting for the costs of near term fossil fuel use on the climate, not to mention the public health/environmental justice costs, this study underplays the benefit of earlier more aggressive decarbonization and the costs of continued delay.
+  - Some overbuilding of renewable generation resources, though possibly not ideal in economic efficiency,  should be acknowledged as providing social and environmental benefits over the alternative of fossil-based peaker resources.
 
 - The study ignores the role of meeting decarbonization goals through limiting energy demand and underplays the role of storage.
-    - There is minimal consideration of conservation, time-of-use pricing, or demand response, though it is acknowledged that new rate structures and demand management could be useful in the future.
-    - The report does not adequately consider the pace of future technology innovations including cost reductions that are particularly likely in energy storage such as iron-air and redox flow batteries.
-    - There is no direct linkage assumed between renewables and storage, which should be part and parcel of one form of reliable energy supply. Storage and dispatch of renewable energy could be tracked through the existing Generation Information System.
+  - There is minimal consideration of conservation, time-of-use pricing, or demand response, though it is acknowledged that new rate structures and demand management could be useful in the future.
+  - The report does not adequately consider the pace of future technology innovations including cost reductions that are particularly likely in energy storage such as iron-air and redox flow batteries.
+  - There is no direct linkage assumed between renewables and storage, which should be part and parcel of one form of reliable energy supply. Storage and dispatch of renewable energy could be tracked through the existing Generation Information System.
 
 - Issues with carbon pricing were ignored.
-    - The conclusion that carbon pricing alone is the most desirable pathway forward should be viewed skeptically since to date fossil fuel interests have been easily able to prevent carbon costs from rising commensurate with environmental and social costs by appealing to pocket book political issues. (See [“The Trouble with Carbon Pricing.”](https://bostonreview.net/articles/leah-c-stokes-matto-mildenberger-tk/))
-    - It is no accident that comments from the fossil industry almost universally favored this proposal.
+  - The conclusion that carbon pricing alone is the most desirable pathway forward should be viewed skeptically since to date fossil fuel interests have been easily able to prevent carbon costs from rising commensurate with environmental and social costs by appealing to pocket book political issues. (See [“The Trouble with Carbon Pricing.”](https://bostonreview.net/articles/leah-c-stokes-matto-mildenberger-tk/))
+  - It is no accident that comments from the fossil industry almost universally favored this proposal.
 
 - While some form of the forward clean energy market proposal may be worthy of our support, the study leaves many questions unanswered.
-    - Consistent with other organizations’ comments, we have questions about how a new forward clean energy auction would be conducted (in light of the challenges we see with the current capacity market structure).
-    - We also fail to understand how it would operate with existing capacity markets and how a centralized market could address EJ concerns, traditionally a purview of the states.
+  - Consistent with other organizations’ comments, we have questions about how a new forward clean energy auction would be conducted (in light of the challenges we see with the current capacity market structure).
+  - We also fail to understand how it would operate with existing capacity markets and how a centralized market could address EJ concerns, traditionally a purview of the states.
 
 - The process of how this report will be used lacks transparency, and it is lacking in public participation. According to ISO-NE’s [updated roadmap](https://www.iso-ne.com/static-assets/documents/2022/09/npc_20220621_future_grid_roadmap.pdf) and [their 2023 work plan](https://www.iso-ne.com/static-assets/documents/2022/10/2023_awp_final_10_12_22.pdf), the goal is for the preferred pathway to be discussed and determined in 2023, followed by implementation.
-    - How can we be sure that the decision will not be made behind closed doors, that it will dispassionately consider interests other than fossil-fuel-based generation?
-    - How will the roles of ISO, NESCOE and NEPOOL  be weighted?
-    - How can the public be involved in the deliberations moving forward?
-    - How can the ISO be held accountable for their decisions?
+  - How can we be sure that the decision will not be made behind closed doors, that it will dispassionately consider interests other than fossil-fuel-based generation?
+  - How will the roles of ISO, NESCOE and NEPOOL  be weighted?
+  - How can the public be involved in the deliberations moving forward?
+  - How can the ISO be held accountable for their decisions?
 
 For additional thoughtful criticisms of the Pathways Study, we particularly recommend the comments by [Advanced Energy Economy](https://www.iso-ne.com/static-assets/documents/2022/03/fgrs_aee_2022-03-15_draft_pathways_study_report_feedback.pdf) and from [No Coal No Gas](https://www.nocoalnogas.org/blog/no-coal-no-gas-response-to-nepool-pathways-study).
