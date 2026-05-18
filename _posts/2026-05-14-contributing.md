@@ -1,11 +1,27 @@
 ---
 title: "Fix-The-Grid Website Post Contribution Guide"
 date: 2026-05-14 20:39:00 +0000
-author: rozario
+author: turibius
 categories: ["Commentary"]
 ---
 
 # Fix-The-Grid Website Post Contribution Guide
+
+## Option 1 (Simple)
+
+<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/l4zrKMfyr24"
+    title="Contributing to the Fix The Grid Website (Simple)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Option 2 (Advanced)
 
 <div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
   <iframe
@@ -25,11 +41,11 @@ There are two methods by which you can contribute to
 [Fix-The-Grid](https://fix-the-grid.org/)'s blog posts:
 
 1. Email Turibius (current maintainer, [turibius@bu.edu](mailto:turibius@bu.edu))
-   with your unformatted post, any images/links to include, and your name.
+   with your **unformatted** post, any images/links to include, and your name.
 2. Make posts yourself on [FTG's Github
    page](https://github.com/fix-the-grid/fix-the-grid.github.io).
 
-This guide covers the latter:
+The rest of this guide covers the latter:
 
 1. Getting access to contribute posts to the website.
 2. Making a post.
