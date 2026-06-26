@@ -3,12 +3,9 @@
 layout: post
 icon: fas fa-info-circle
 toc: true
-order: 6
+order: 1
+permalink: /
 ---
-
-Fix the Grid is a coalition of New England residents striving to increase the
-democracy, transparency, and renewable-mix present in the grid. We have
-sub-committees focusing on different routes for our united mission.
 
 ## Our Mission
 

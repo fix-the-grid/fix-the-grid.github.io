@@ -4,7 +4,7 @@ layout: post
 title: FAQ/Acronyms
 icon: fas fa-circle-question
 toc: true
-order: 5
+order: 6
 ---
 
 ## Frequently Asked Questions
