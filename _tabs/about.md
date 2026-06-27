@@ -7,6 +7,10 @@ order: 1
 permalink: /
 ---
 
+Fix the Grid is a grassroots campaign in the 6 Northeast states that aims to accelerate a just transition to a democratic, transparent and renewable electric grid. We focus on pushing regional energy regulators to incentivize clean energy like wind, solar, and storage, instead of keeping us hooked on polluting fossil fuels that exacerbate the climate emergency and harm our most vulnerable communities. 
+
+Join us using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdJlhKJyCXON0p66zaWIv0gX3fGjzQ7CzsNS71gFKwxogiAEA/viewform).
+
 ## Our Mission
 
 As states across our region take action to build a 100% clean, local, and renewable energy future, our region’s electricity-grid operator, the Independent System Operator for New England, or ISO-NE, is keeping us hooked on polluting, expensive fossil fuels.
@@ -25,6 +29,9 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
 
 ## Our subcommittees
 
+You can join us via [this
+link](https://docs.google.com/forms/d/e/1FAIpQLSdJlhKJyCXON0p66zaWIv0gX3fGjzQ7CzsNS71gFKwxogiAEA/viewform).
+
 ### Full Fix the Grid group
 
 - What:
@@ -32,8 +39,7 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
   - Identifies opportunities for action
   - Increases regional collaboration
   - Informs committee next steps
-- When: monthly on Monday at 2pm
-- Who: everyone who is part of the Fix the Grid campaign (including any of the subcommittees)
+- When: Monthly on Monday at 2pm
 - Email:
   - [fix-the-grid@googlegroups.com](mailto:fix-the-grid@googlegroups.com) (content moderated by Mireille to avoid high traffic; for announcements)
   - Core list: [ftg-core@googlegroups.com](mailto:ftg-core@googlegroups.com) (no moderation; for more discussion)
@@ -46,17 +52,7 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
   - Gives presentations about the grid to other groups;
   - Activates the Fix the Grid base when action is required.
 - When: Mondays at 3pm (first Monday)
-- Who: Marya Axner, David Heimann, Monte Pearson, Eve Lukens-Day, Regine Spector, Mireille Bejjani, Halsey Snow, Sue Donaldson
 - Email: [ftg-education@googlegroups.com](mailto:ftg-education@googlegroups.com)
-
-### Movement Building Committee
-
-- What:
-  - Builds new connections with organizations, community groups, industry leaders, and experts working on the energy transition in the region;
-  - Recruits new members to join the Fix the Grid campaign and orients them to the effort;
-  - Prioritizes relationships with frontline communities and stakeholders in states outside of Massachusetts.
-- When: Fridays at 1pm (monthly)
-- Who: Roger Stephenson, Susan Theberge, John Walkey, Mireille Bejjani
 
 ### Technical Committee (Study Group)
 
@@ -65,7 +61,6 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
   - Provides distilled, easy to understand summaries to the rest of the campaign team;
   - Informs and updates the detailed power-mapping of relevant stakeholders and decision-makers.
 - When: First Friday of the month 11:30am-1pm
-- Who: Regine Spector, Ian McDonald, Kent Wittenburg, Bob Persons, Roy Harvey, Paul Popinchalk, Steven Botkin, David Heimann, Marya Axner, Ada Statler, Christine Powell, Eve Vogel, Lilly Worthley
 - Email: [ftg-technical@googlegroups.com](mailto:ftg-technical@googlegroups.com)
 
 ### Campaign Strategy Committee
@@ -75,16 +70,7 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
   - Ensures that what is most strategic is centered in committee work, staying grounding in what we’re trying to build;
   - Integrates shorter-term actions with longer-term vision for power building and tangible progress.
 - When: Wednesdays at 11:30am (second Wednesday)
-- Who: Steven Botkin, Logan Malik, Mireille Bejjani, Kelt Wilska, Ada Statler, Christine Powell, Lilly Worthley, Sue Donaldson
 - Email: [ftg-strategy@googlegroups.com](mailto:ftg-strategy@googlegroups.com)
-
-### Digital Presence Committee
-
-- What:
-  - Updates and maintains Fix the Grid website
-  - Posts to the Fix the Grid Facebook, Twitter and other social media pages
-- When: Mondays at 11am (monthly)
-- Who: Sudi Smoller, Ron Smoller, Ken McDonnell, Kent Wittenburg
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page. -->
 <!-- {: .prompt-tip } -->
