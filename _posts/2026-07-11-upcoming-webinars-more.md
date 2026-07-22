@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Webinars and Good Reads"
-date: 2026-06-27 16:30:39 +0000
+date: 2026-07-11 16:30:39 +0000
 author: turibius
 categories: ["Events"]
 tags: ["Non-FTG"]
