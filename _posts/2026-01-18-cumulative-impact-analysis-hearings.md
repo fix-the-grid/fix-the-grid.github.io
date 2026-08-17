@@ -8,7 +8,7 @@ image:
   path: "/assets/img/2025/10/EFSB-logo.webp"
 ---
 
-The MA Energy Facilities Siting Board has opened a rulemaking for proposed regulations regarding *Cumulative Impact Analysis and Standards for Applying Site Suitability Criteria*
+The MA Energy Facilities Siting Board has opened a rulemaking for proposed regulations regarding _Cumulative Impact Analysis and Standards for Applying Site Suitability Criteria_
 
 - Written comments accepted until **5:00 p.m. on Friday, February 13, 2026**
 - Public Comment Hearing 1:**Monday, February 2, 2026, 1:00 p.m.**
