@@ -1,6 +1,6 @@
 ---
 title: "Articles, Resources, and Actionables"
-date: 2026-07-22 19:50:39 +0000
+date: 2026-08-17 12:44:00 +0000
 author: turibius
 categories: ["Education"]
 tags: ["Non-FTG"]
