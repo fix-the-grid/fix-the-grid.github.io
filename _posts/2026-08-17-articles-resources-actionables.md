@@ -32,3 +32,7 @@ Some opportunities for Massachusetts residents:
 - [Climate Resilience Community Facilitation Fellowship
   Application](https://form.fillout.com/t/iRa1oLJYAcus): Due on September 6
   midnight.
+
+Some opportunities for Connecticut residents:
+
+- Public Comment Training for the Plainfield CT Proposed Incinerator. Excellent breakdown of the CT permitting process here. You may view a recording of the webinar [here](https://drive.google.com/file/d/164rJi2S13fhvvOfqz0BheybELu1ettoU/view?usp=sharing) and the PowerPoint presentation here.
