@@ -26,32 +26,22 @@ Here](https://www.eventbrite.com/e/fix-the-grid-demand-reduction-summit-tickets-
 
 ## Other non-FTG upcoming events:
 
-1. **October Monthly Climate Change Briefing** on Tuesday, October 13th from 3 PM
-   to 3:30 PM (online, Environmental Law Institute). Free webinar where national
-   experts give short updates on recent legal and policy developments in climate
-   change across sectors, with time for discussion.
-   [Link](https://www.eli.org/events/monthly-climate-change-briefing-october-2026).
-2. **Mass Save® Heat Pump Installer Network Fall Heating and Cooling Webinar** on
+1. **Mass Save® Heat Pump Installer Network Fall Heating and Cooling Webinar** on
    Wednesday, October 14th from 8 AM to 10 AM (online). Hosted by the Sponsors
    of Mass Save, covering program updates and proposed offerings for 2027,
    followed by a Q&A session.
    [Link](https://events.teams.microsoft.com/event/37bd0c40-cd13-4442-bfa8-1fa5403abfd1@64d02b5c-ea71-4a74-87e2-572bd16e1914).
-3. **Mass Save 2028-2030 Three-Year Plan Workshop #4** on Thursday, October 15th
+2. **Mass Save 2028-2030 Three-Year Plan Workshop #4** on Thursday, October 15th
    from 12:30 PM to 4:30 PM (online). Workshop of the Energy Efficiency Advisory
    Council on the integration of recommendations into the next Mass Save
    three-year plan.
    [Link](https://ma-eeac.org/wp-content/uploads/Updated-Notice-of-EEAC-Workshops-2026-10-15-26.pdf).
-4. **Heat Pump & Time-Varying Rates: What Massachusetts Customers Need to Know**
+3. **Heat Pump & Time-Varying Rates: What Massachusetts Customers Need to Know**
    on Wednesday, October 28th from 12 PM to 1 PM (online, Green Energy Consumers
    Alliance). Covers heat pump rates for the coming winter, savings and
    enrollment, plus how time-varying rates can lower costs by shifting usage to
    cheaper times.
    [Link](https://www.greenenergyconsumers.org/event/heatpumptimevaryingrates).
-5. **Boston Climatetech Summit 2026** on Thursday, October 29th from 9 AM to 5 PM
-   at Greentown Labs, 444 Somerville Ave, Somerville MA (in-person tickets $250).
-   Annual summit bringing together entrepreneurs, investors, corporate leaders,
-   policymakers, and philanthropists to advance climate and energy innovation.
-   [Link](https://luma.com/5s7vk0sy).
 
 Resource:
 
@@ -59,3 +49,4 @@ Resource:
   Center). An evolving database helping New England communities find grants,
   loans, tax credits, and other financing for environmental work.
   [Link](https://airtable.com/appOx6QcUIkl4UOuw/shrpAGDLBWHzgrKrX?BJe6m=b%3AWzAsWyJnTEY0VSIsNixbInNlbGZ4d0Y1TDc4UkM3ZktaIiwic2VsbGN1ODBLSjEyUGd0V3EiLCJzZWxlZFhmNXlFVDl0NENPTCJdXV0).
+
