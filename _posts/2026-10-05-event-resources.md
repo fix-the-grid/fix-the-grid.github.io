@@ -49,4 +49,3 @@ Resource:
   Center). An evolving database helping New England communities find grants,
   loans, tax credits, and other financing for environmental work.
   [Link](https://airtable.com/appOx6QcUIkl4UOuw/shrpAGDLBWHzgrKrX?BJe6m=b%3AWzAsWyJnTEY0VSIsNixbInNlbGZ4d0Y1TDc4UkM3ZktaIiwic2VsbGN1ODBLSjEyUGd0V3EiLCJzZWxlZFhmNXlFVDl0NENPTCJdXV0).
-
